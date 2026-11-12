@@ -1,4 +1,3 @@
-# Kimberly-Skovold-MBA
 <!DOCTYPE html>
 <html lang="en" class="scroll-smooth">
 <head>
